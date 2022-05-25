@@ -133,10 +133,13 @@ li{
 }
 
 footer{
-	font-size: 10px;
+	font-size: 70px;
 	margin-left: 10px;
 	color: #FFBCF5;
 	font-family: cursive;
+	display: block;
+	text-align: center;
+	width: 1800px;
 }
 
 p[Type = "infoPersonaje"]{
