@@ -181,8 +181,13 @@ figcaption{
 }
 
 footer{
-	font-size: 20px;
-	font-weight: bold;
+	font-size: 70px;
+	margin-left: 10px;
+	color: #FFBCF5;
+	font-family: cursive;
+	display: block;
+	text-align: center;
+	width: 1800px;
 }
 
 table{
@@ -681,7 +686,11 @@ td{
 	font-size: 22px;
 }
 
-
+.Logo{
+	width: 500px;
+	margin-left: 650px;
+	padding-top: px;
+}
 
 
 
